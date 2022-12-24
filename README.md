@@ -1,3 +1,8 @@
+# Содержание
+
+1. В textarea вводится текст, выводится в абзац транслит вводимого текста.
+2. В textarea на каждой строке вводятся числа, по мере ввода в абзац выводится сумма введенных чисел.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
